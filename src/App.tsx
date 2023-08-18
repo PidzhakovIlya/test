@@ -9,6 +9,8 @@ function App() {
         <div>haha</div>
         <div>haha</div>
         <div>haha</div>
+        <div>buy</div>
+        <div>buy</div>
     </div>
   );
 }
